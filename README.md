@@ -44,7 +44,7 @@ Na camada de segurança foi criado um serviço para gerar o Token JWT para fins 
    ```sh
    mvn spring-boot:run
    ```
-5. Varificar se o projeto está rodando
+5. Verificar se o projeto está rodando
    ```sh
    http://localhost:8080/api/status
    ```
